@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "firstname": "Zaza",
+        "lastname": "Vanderquack",
+        "age": 16,
+        "hobbies": [
+            "La cuisinne",
+            "La programmation"
+        ]
+    },
+    {
+        "id": 2,
+        "firstname": "Donald",
+        "lastname": "Duck",
+        "age": 32,
+        "hobbies": [
+            "La peche",
+            "La mer",
+            "Le pocker"
+        ]
+    },
+    {
+        "id": 3,
+        "firstname": "Balthazar",
+        "lastname": "Picsou",
+        "age": 73,
+        "hobbies": [
+            "Partir à l'aventure",
+            "Nager dans l'argent"
+        ]
+    },
+    {
+        "id": 4,
+        "firstname": "Della",
+        "lastname": "Duck",
+        "age": 29,
+        "hobbies": [
+            "L'espace"
+        ]
+    },
+    {
+        "id": 5,
+        "firstname": "Riri",
+        "lastname": "Duck",
+        "age": 15,
+        "hobbies": null
+    },
+    {
+        "id": 6,
+        "firstname": "Miss Tick",
+        "lastname": null,
+        "age": null,
+        "hobbies": [
+            "Sorcellerie"
+        ]
+    }
+]

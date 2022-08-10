@@ -1,0 +1,19 @@
+table.peopleTable,
+table.peopleTable > thead > tr > th,
+table.peopleTable > tbody > tr > td {
+    border: 1px double #707070;
+    border-collapse: collapse;
+}
+
+table.peopleTable > thead > tr > th {
+    background-color: #707070;
+    color: #f1f1f1
+}
+
+table.peopleTable {
+    background-color: #f1f1f1;
+}
+
+table.peopleTable > tbody > tr:hover {
+    background-color: #d4ffd4;
+}
